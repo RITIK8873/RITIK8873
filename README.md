@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 To Know me more go to **https://ritik8873.github.io/Ritik_Raj/**
+- 📫 To Know me more go to **https://ritik8873.github.io/Ritik_91100/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
