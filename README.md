@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Data Analyst at Capgemini</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik8873&label=Profile%20views&color=0e75b6&style=flat" alt="ritik8873" /> </p>
-
-- 🔭 I’m currently pursuing my Btech degree from **Jain University**
-
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **anything**
 
 - 📫 To Know me more go to **https://ritik8873.github.io/Ritik_91100/**
 
